@@ -1,4 +1,4 @@
-# Hi there, I'm misteralex! 👋
+# Hi there, I'm Alex! 👋
 
 > Certified Data Engineer with a focus on Cloud Data Warehousing and Edge Computing.
 
